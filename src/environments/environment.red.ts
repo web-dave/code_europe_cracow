@@ -3,6 +3,6 @@ export const environment = {
 };
 
 export const colors = {
-  bg: 'red',
-  text: 'green'
+  background: 'red',
+  color: 'green'
 };

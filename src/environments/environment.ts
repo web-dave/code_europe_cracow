@@ -8,6 +8,6 @@ export const environment = {
 };
 
 export const colors = {
-  bg: 'yellow',
-  text: 'blue'
+  background: 'yellow',
+  color: 'blue'
 };

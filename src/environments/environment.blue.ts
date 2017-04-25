@@ -4,6 +4,6 @@ export const environment = {
 
 
 export const colors = {
-  bg: 'blue',
-  text: 'orange'
+  background: 'blue',
+  color: 'orange'
 };
