@@ -1,8 +1,8 @@
 export const environment = {
-  production: true
+  production: false
 };
 
 export const colors = {
-  bg: 'green',
-  text: 'red'
+  bg: 'red',
+  text: 'green'
 };
