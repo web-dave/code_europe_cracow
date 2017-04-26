@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { colors } from '../environments/environment';
 
 @Component({
   selector: 'app-root',
@@ -8,5 +7,4 @@ import { colors } from '../environments/environment';
 })
 export class AppComponent {
   title = 'app works!';
-  colors = colors;
 }
